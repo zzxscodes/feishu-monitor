@@ -9,7 +9,7 @@ import requests
 
 FEISHU_WEBHOOK = os.getenv(
     "FEISHU_WEBHOOK",
-    "https://open.feishu.cn/open-apis/bot/v2/hook/89575426-0f8c-47e5-8b24-9cd58993138d",
+    "******
 )
 
 DB_HOST = os.getenv("DB_HOST", "54.199.228.0")
